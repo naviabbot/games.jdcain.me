@@ -2,6 +2,7 @@
 title: "Stinkoman 20X6 in 2021"
 date: 2021-01-16T05:05:12-06:00
 draft: false
+description: "In a new age, we shall always remember the old..."
 tags:
 - flash
 - homestar runner
