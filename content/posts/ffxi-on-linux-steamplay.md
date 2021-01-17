@@ -1,7 +1,7 @@
 ---
 title: "How to visit Vana'diel on Linux - Up-to-date"
 date: 2021-01-17T08:19:44-06:00
-draft: true
+draft: false
 description: "An update to an old article on how to play Final Fantasy XI on Linux"
 tags:
 - mmo
