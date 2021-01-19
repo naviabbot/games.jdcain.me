@@ -65,6 +65,18 @@ preserveTaxonomyNames = true
     url = "/posts/"       # The path can lead to a content folder too.
     weight = 20
 
+  [[menu.main]]
+    identifier = "main"
+    name = "Main Blog"
+    url = "https://jdcain.me"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "streams"
+    name = "Streams"
+    url = "https://kmartk.art"
+    weight = 40
+
 [taxonomies]
 category = "categories"
 tag = "tags"
