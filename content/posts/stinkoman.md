@@ -15,4 +15,4 @@ There is a way to fix this by using Flashpoint. At the time of this writing, the
 
 Now, when you load up Stinkoman 20X6 from Flashpoint, you should get the new game.
 
-EDIT: The game has been moved from old.homestarrunner.com to just homestarrunner.com. However, as Stinkoman 20X6 uses ActionScript 3, Ruffle isn't able to 100% emulate it. However, this move may make it easier for the Flashpoint team to update their files.
+EDIT: The game has been moved from old.homestarrunner.com to just homestarrunner.com. However, as Stinkoman 20X6 uses ActionScript 3, Ruffle isn't able to 100% emulate it. Chromium based browsers are especially at fault - Firefox seems to run it "alright", however, Google Chrome, MS Edge and Brave Browser all seem to be broken. However, this move may make it easier for the Flashpoint team to update their files.
