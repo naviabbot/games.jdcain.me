@@ -14,3 +14,5 @@ This may come at a shock, but we are now living in a Post-Flash era. As such, so
 There is a way to fix this by using Flashpoint. At the time of this writing, the version stored on the archival servers only goes up to Level 9, which means it's not up to date. Download it anyway, this can be fixed by downloading the latest version from homestarrunner.com. (Just click [here](https://homestarrunner.com/media/pages/stinkogame/5c5726aa03-1610907913/stinkogame.swf) to get it. It's a twitter short link, taken from my old tweet.) Move it to <Flashpoint Dir>\Legacy\htdocs\localflash\stinkoman20x6\stinkogame.swf. (If you are prompted to save, save it and overwrite it there.)
 
 Now, when you load up Stinkoman 20X6 from Flashpoint, you should get the new game.
+
+EDIT: The game has been moved from old.homestarrunner.com to just homestarrunner.com. However, as Stinkoman 20X6 uses ActionScript 3, Ruffle isn't able to 100% emulate it. However, this move may make it easier for the Flashpoint team to update their files.
