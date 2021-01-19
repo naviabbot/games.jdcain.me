@@ -5,6 +5,8 @@ draft: false
 tags:
 - mmo
 - linux
+categories:
+- linux
 description: "The viability of running Phantasy Star Online 2 if GameGuard didn't exist."
 ---
 
