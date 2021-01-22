@@ -36,4 +36,4 @@ boot -l c:
 In a command prompt, change to your Dosbox unzipped directory and run the following:
 `dosbox-x.exe -conf P:\ath\to\th01.conf`
 
-It'll load up and begin running the game, complete with a full set of glyphs. You can uninstall the installed version by now.
+It'll load up and begin running the game, complete with a full set of glyphs. You can uninstall the installed version by now. Keep the unzipped one though.
