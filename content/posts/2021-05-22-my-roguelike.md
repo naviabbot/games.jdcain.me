@@ -1,8 +1,10 @@
 ---
 title: "Angband: My Roguelike of Choice"
 date: 2021-05-22T07:07:30Z
-draft: true
+draft: false
 ---
+(The images on this article do seem a bit off. Right-Click > View Image to see them properly. I apologize.)
+
 The mother of all CRPGs - Rogue. Today, many "Roguelike" games focus on probably one or two things found in Rogue - Permadeath and Procedurally Generated floors. Many though just don't seem to have the charm of guiding "@" around a maze of unknowns like the Major Roguelikes do.  
 
 Per Roguebasin, the largest wiki on the topic itself, the Major Classic Roguelikes are Rogue, Hack, Moria, Larn, Omega, which have all spawned todays majors - ADOM, ToME, Angband, Crawl (Stone Soup), and Nethack. I've tried Moria, Larn, Rogue, Nethack, and Angband. This, I have to say. Angband is wild. It's nothing like the others. Angband today has multiple windows to minimize the number of keypresses to see around you, in your pack, in the logs, and in the bestiary.  
